@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "60774785432",
+    "project_id": "techreachout-4baec",
+    "storage_bucket": "techreachout-4baec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60774785432:android:978751bbdbe2af90158bed",
+        "android_client_info": {
+          "package_name": "com.error_generators.techreachout"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFnKpQbmU43Pnj5-SKkORSrktnSEOq9x8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
